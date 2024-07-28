@@ -1,6 +1,6 @@
 # Problem Statement: Document Genie - AI-Powered Document Insight Extraction
 
-## **Context:**
+## *Context:**
 
 In today's digital age, businesses, researchers, and individuals often deal with a vast amount of textual data stored in documents such as PDFs. Extracting relevant information and insights from these documents manually can be time-consuming and error-prone. This challenge is especially significant for large organizations that need to quickly retrieve specific information from extensive document repositories.
 
